@@ -4,7 +4,7 @@ export class Hero {
   id: number;
   name: string;
 }
-
+//orospo chugu
 
 const HEROES: Hero[] = [
   { id: 11, name: 'Mr. Nice' },
